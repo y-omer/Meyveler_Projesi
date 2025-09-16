@@ -1,0 +1,3 @@
+echo deneme
+echo'yu kullanmayi ogrendim
+Github kulannimi mi gelistirmeliyim
